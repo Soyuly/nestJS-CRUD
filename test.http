@@ -1,0 +1,7 @@
+POST http://localhost:3000/boards HTTP/1.1
+Content-Type: application/json
+
+{
+    "title" : "Board 1",
+    "description" : "description1"
+}
